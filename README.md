@@ -1,4 +1,4 @@
-# javascript-rock-paper-scissors
+# Javascript Rock Paper Scissors
 Rock, paper, scissors game made using Javascript
 
 **No installation**
